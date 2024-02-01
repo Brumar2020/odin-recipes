@@ -1,0 +1,21 @@
+.page {
+    background-color: antiquewhite;
+}
+
+.header {
+    text-align: center;
+}
+
+.pic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.hd {
+    text-align: center;
+}
+
+.size {
+    font-size: larger;
+}

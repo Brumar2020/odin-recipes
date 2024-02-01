@@ -1,0 +1,17 @@
+.page {
+    background-color: antiquewhite;
+}
+
+.head {
+    text-align: center;
+}
+
+.pic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.foot {
+    font-size: larger;
+}
